@@ -1,6 +1,6 @@
 ## git核心原理
 
-![323eee760a19bb52686454a8093f27b](C:\Users\ADMINI~1\AppData\Local\Temp\WeChat Files\323eee760a19bb52686454a8093f27b.jpg)
+![323eee760a19bb52686454a8093f27b](https://raw.githubusercontent.com/AZERO000/Upload-picture/master/git%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86.jpg?token=GHSAT0AAAAAABYASB4FRIK7QJISVHY2P43MYYVYGLA)
 
 ## git常见命令
 
